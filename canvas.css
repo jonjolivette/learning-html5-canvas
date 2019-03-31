@@ -1,0 +1,11 @@
+* {
+  /* setting the margin to zero helps to eliminate the predefined margins
+  //html elements naturally inherit */
+  margin: 0;
+}
+canvas {
+  border: 1px solid black;
+  height: 100%;
+  width: 100%;
+  background: red;
+}
